@@ -124,11 +124,4 @@ Les contributeurs peuvent rejoindre Sayca Delta pour :
 La protection du projet est **automatique** dès sa création (Convention de Berne).
 
 ## 10. Auteur
-👤 **Jason Ferone "Sayca"**  
-Architecte informationnel, Fondateur de Sayca Labs.
-Recherche appliquée sur la symbiose cognitivo-artificielle et les modèles d’intelligence hybride.  
-> *“L’Humain et la Machine ne doivent pas se concurrencer — mais se compléter.”*
-
----
-
-### 🜂 *Sayca Delta — la genèse d’une cognition partagée.*
+👤 **Jason Ferone "Sayca"**
