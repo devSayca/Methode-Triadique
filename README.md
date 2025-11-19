@@ -10,7 +10,7 @@
 
 ## 1. Présentation
 
-**Sayca Delta** est un projet de **recherche et développement appliqué** initié et dirigé par **Sayca Labs**.  
+**Sayca Delta** est un projet de méthodologie et de développement logiciel open-research dirigé par **Sayca Labs**.  
 Il vise à concevoir un **système de travail collaboratif Homme–IA** d’usage quotidien, fondé sur un protocole nommé **Intelligence Triadique (Δ)**.
 
 Ce modèle place l’humain au centre d’une synergie entre **réflexion**, **structure** et **exécution** :
