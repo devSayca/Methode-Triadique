@@ -1,4 +1,4 @@
-# 🧠 SAYCA DELTA  
+# 🧠 METHODOLOGIE DELTA
 ### *Vers un modèle opérationnel d’intelligence augmentée : l’Intelligence Triadique (Δ)*
 
 # ⚠️ Disclaimer
