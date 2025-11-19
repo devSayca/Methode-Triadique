@@ -114,7 +114,7 @@ Les contributeurs peuvent rejoindre Sayca Delta pour :
 © 2025 Jason Ferone "Sayca" (Sayca Labs) — sous licence CC BY-NC-SA 4.0 International.
 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-###🧾 Licence officielle
+### 🧾 Licence officielle
 **Creative Commons BY-NC-SA 4.0 International**  
 *(Attribution – Pas d’usage commercial – Partage dans les mêmes conditions)*  
 
